@@ -1,0 +1,46 @@
+июл. 04, 2023 7:15:08 PM App main
+INFO: text log 1
+июл. 04, 2023 7:15:08 PM App main
+INFO: text log 2
+июл. 04, 2023 7:15:08 PM App main
+INFO: text log 3
+июл. 04, 2023 7:15:08 PM App main
+INFO: text log 4
+июл. 04, 2023 7:15:08 PM App main
+INFO: text log 5
+июл. 04, 2023 7:15:08 PM App main
+INFO: text log 6
+июл. 04, 2023 7:15:08 PM App main
+INFO: text log 7
+июл. 04, 2023 7:15:08 PM App main
+INFO: text log 8
+июл. 04, 2023 7:15:08 PM App main
+INFO: text log 9
+июл. 04, 2023 7:15:08 PM App main
+INFO: text log 10
+июл. 04, 2023 7:15:08 PM App main
+INFO: text log 11
+июл. 04, 2023 7:15:08 PM App main
+INFO: text log 12
+июл. 04, 2023 7:15:08 PM App main
+INFO: text log 13
+июл. 04, 2023 7:15:08 PM App main
+INFO: text log 14
+июл. 04, 2023 7:15:08 PM App main
+INFO: text log 15
+июл. 04, 2023 7:15:08 PM App main
+INFO: text log 16
+июл. 04, 2023 7:15:08 PM App main
+INFO: text log 17
+июл. 04, 2023 7:15:08 PM App main
+INFO: text log 18
+июл. 04, 2023 7:15:08 PM App main
+INFO: text log 19
+июл. 04, 2023 7:15:08 PM App main
+INFO: text log 20
+июл. 04, 2023 7:15:08 PM App main
+INFO: text log 21
+июл. 04, 2023 7:15:08 PM App main
+INFO: text log 22
+июл. 04, 2023 7:15:08 PM App main
+INFO: text log 23
