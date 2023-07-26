@@ -1,8 +1,6 @@
 package HOMEWORK5;
 
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.LinkedList;
@@ -44,6 +42,7 @@ public class TASK {
     public static LinkedList<String> AddNumbers(int n){
         Scanner scanner = new Scanner(System.in);
         LinkedList<String> Numbers = new LinkedList<>();
+        System.out.println("Enter PhoneNumbers:");
         for(int i = 0; i<n;i++){
             Numbers.add(scanner.nextLine());
         }

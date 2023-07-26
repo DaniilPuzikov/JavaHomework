@@ -42,6 +42,7 @@ public class TASK {
     public static LinkedList<String> AddNumbers(int n){
         Scanner scanner = new Scanner(System.in);
         LinkedList<String> Numbers = new LinkedList<>();
+        System.out.println("Enter PhoneNumbers:");
         for(int i = 0; i<n;i++){
             Numbers.add(scanner.nextLine());
         }
